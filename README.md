@@ -47,13 +47,6 @@ Always learning, always building.
 | [⚙️ OS Concepts in C++](https://github.com/mak2004-png/os-concepts-cpp) | C++ | CPU scheduling algorithms + multithreaded file search |
 | [🛫 Cisco Network Simulations](https://github.com/mak2004-png/networking-cisco) | Cisco Packet Tracer | Airport enterprise network with VLANs, ACLs, RIP, DHCP |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mak2004-png&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
