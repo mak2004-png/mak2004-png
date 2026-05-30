@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Affan Khan 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student</b> · Rawalpindi, Pakistan
+  <b>Software Engineering Student</b> · Islamabad, Pakistan
 </p>
 
 <p align="center">
