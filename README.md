@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student with hands-on experience building projects across web development, databases, systems programming, and networking. I enjoy turning course concepts into real working software and I'm currently looking for internship opportunities to gain industry experience.
+I'm a Software Engineering student with hands-on experience building projects across web development, databases, systems programming, and networking. I enjoy turning course concepts into real working software and I'm currently looking for internship opportunities to gain industry experience.
 
 ---
 
