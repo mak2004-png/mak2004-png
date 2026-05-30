@@ -13,8 +13,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a Software Engineering student with hands-on experience building projects across web development, databases, systems programming, and networking. I enjoy turning course concepts into real working software and I'm currently looking for internship opportunities to gain industry experience.
-
+I'm a Software Engineering student with hands-on experience building projects across web development, databases, systems programming, and networking. I build across the stack — web, systems, databases, and networks. 
+I like understanding how things work under the hood.
+Always learning, always building.
 ---
 
 ### 🛠️ Tech Stack
