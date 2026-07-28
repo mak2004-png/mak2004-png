@@ -11,12 +11,11 @@
 
 ---
 
+
 ### 👨‍💻 About Me
 
 Software Engineering student at SZABIST Islamabad, currently in my third year. I build across the stack — web, systems, databases, and networks. I like understanding how things work under the hood.
 Always learning, always building.
-
----
 
 ### 🛠️ Tech Stack
 
@@ -50,13 +49,6 @@ Always learning, always building.
 | [⚙️ OS Concepts in C++](https://github.com/mak2004-png/os-concepts-cpp) | C++ | CPU scheduling algorithms + multithreaded file search |
 | [🛫 Cisco Network Simulations](https://github.com/mak2004-png/networking-cisco) | Cisco Packet Tracer | Airport enterprise network with VLANs, ACLs, RIP, DHCP |
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mak2004-png&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
